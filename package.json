@@ -1,11 +1,31 @@
 {
   "name": "ai-queue",
   "version": "1.0.0",
-  "description": "Generate BullMQ job queue setup and workers",
+  "description": "AI-powered job queue setup - BullMQ and background workers with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-queue": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["bullmq","queue","jobs","workers","background","ai","cli"],
+  "bin": {
+    "ai-queue": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "queue",
+    "bullmq",
+    "redis",
+    "jobs",
+    "background",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "workers",
+    "async"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
