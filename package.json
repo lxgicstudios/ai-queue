@@ -1,5 +1,5 @@
 {
-  "name": "ai-queue",
+  "name": "@lxgicstudios/ai-queue",
   "version": "1.0.0",
   "description": "AI-powered job queue setup - BullMQ and background workers with GPT",
   "main": "dist/index.js",
