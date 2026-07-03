@@ -39,7 +39,9 @@
     "redis",
     "background-jobs",
     "site-architecture",
-    "page-speed"
+    "page-speed",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
